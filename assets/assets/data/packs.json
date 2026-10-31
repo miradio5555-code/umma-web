@@ -1,0 +1,37 @@
+{
+ "tag": "v1",
+ "mirrors": [
+  "https://cdn.jsdelivr.net/gh/miradio5555-code/umma-content@v1/",
+  "https://raw.githubusercontent.com/miradio5555-code/umma-content/v1/"
+ ],
+ "packs": [
+  {
+   "id": "kyrgyz_mokhtasar",
+   "kind": "tafsir",
+   "path": "tafsir/kyrgyz_mokhtasar.json",
+   "size": 2941492,
+   "sha256": "2ebb681b94f642aad58e418aad1662cc11cb4a3c88381dbb26e0998d5df0bd4b"
+  },
+  {
+   "id": "russian_mokhtasar",
+   "kind": "tafsir",
+   "path": "tafsir/russian_mokhtasar.json",
+   "size": 3042364,
+   "sha256": "a21f59ced83eb217ddb8e41a2917e282a030befd71043ca8c620980cdde62cf2"
+  },
+  {
+   "id": "uzbek_mokhtasar",
+   "kind": "tafsir",
+   "path": "tafsir/uzbek_mokhtasar.json",
+   "size": 2858635,
+   "sha256": "064649ef3af39d62955790b5e0420b02584062c2112e86fec8315dc66d73e822"
+  },
+  {
+   "id": "english_mokhtasar",
+   "kind": "tafsir",
+   "path": "tafsir/english_mokhtasar.json",
+   "size": 1781897,
+   "sha256": "da4800cbcf7e03f699fd33c2f2f2067758ccd6d0579313f2798e7f2b1959d78f"
+  }
+ ]
+}

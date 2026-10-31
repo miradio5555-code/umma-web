@@ -1,0 +1,62 @@
+[
+ {
+  "key": "english_mokhtasar",
+  "lang": "en",
+  "kind": "tafsir",
+  "title": "english_mokhtasar",
+  "version": "QuranEnc, 2026-10-07",
+  "pack": "english_mokhtasar"
+ },
+ {
+  "key": "english_saheeh",
+  "lang": "en",
+  "kind": "translation",
+  "title": "English Translation - Noor International Center",
+  "version": "1.1.2"
+ },
+ {
+  "key": "kyrgyz_hakimov",
+  "lang": "ky",
+  "kind": "translation",
+  "title": "Kyrgyz Translation - Shamsuddin Hakimov",
+  "version": "1.0.2"
+ },
+ {
+  "key": "kyrgyz_mokhtasar",
+  "lang": "ky",
+  "kind": "tafsir",
+  "title": "kyrgyz_mokhtasar",
+  "version": "QuranEnc, 2026-10-07",
+  "pack": "kyrgyz_mokhtasar"
+ },
+ {
+  "key": "russian_mokhtasar",
+  "lang": "ru",
+  "kind": "tafsir",
+  "title": "russian_mokhtasar",
+  "version": "QuranEnc, 2026-10-07",
+  "pack": "russian_mokhtasar"
+ },
+ {
+  "key": "russian_rwwad",
+  "lang": "ru",
+  "kind": "translation",
+  "title": "russian_rwwad",
+  "version": "QuranEnc, 2026-10-07"
+ },
+ {
+  "key": "uzbek_mansour",
+  "lang": "uz",
+  "kind": "translation",
+  "title": "Uzbek Translation - Alaauddin Mansour",
+  "version": "1.0.0"
+ },
+ {
+  "key": "uzbek_mokhtasar",
+  "lang": "uz",
+  "kind": "tafsir",
+  "title": "uzbek_mokhtasar",
+  "version": "QuranEnc, 2026-10-07",
+  "pack": "uzbek_mokhtasar"
+ }
+]

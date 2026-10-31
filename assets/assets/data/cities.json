@@ -1,0 +1,522 @@
+[
+{
+"id": "bishkek",
+"ru": "Бишкек",
+"en": "Bishkek",
+"uz": "Bishkek",
+"country": "KG",
+"lat": 42.8746,
+"lng": 74.5698,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "osh",
+"ru": "Ош",
+"en": "Osh",
+"uz": "O'sh",
+"country": "KG",
+"lat": 40.5283,
+"lng": 72.7985,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "jalal_abad",
+"ru": "Джалал-Абад",
+"en": "Jalal-Abad",
+"uz": "Jalolobod",
+"country": "KG",
+"lat": 40.9333,
+"lng": 73.0017,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "karakol",
+"ru": "Каракол",
+"en": "Karakol",
+"uz": "Karakol",
+"country": "KG",
+"lat": 42.4907,
+"lng": 78.3936,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "tokmok",
+"ru": "Токмок",
+"en": "Tokmok",
+"uz": "To'qmoq",
+"country": "KG",
+"lat": 42.8417,
+"lng": 75.3,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "naryn",
+"ru": "Нарын",
+"en": "Naryn",
+"uz": "Norin",
+"country": "KG",
+"lat": 41.4287,
+"lng": 75.9911,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "talas",
+"ru": "Талас",
+"en": "Talas",
+"uz": "Talas",
+"country": "KG",
+"lat": 42.5228,
+"lng": 72.2427,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "batken",
+"ru": "Баткен",
+"en": "Batken",
+"uz": "Botkent",
+"country": "KG",
+"lat": 40.0629,
+"lng": 70.8194,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kara_balta",
+"ru": "Кара-Балта",
+"en": "Kara-Balta",
+"uz": "Qorabolta",
+"country": "KG",
+"lat": 42.8142,
+"lng": 73.8481,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "uzgen",
+"ru": "Узген",
+"en": "Uzgen",
+"uz": "O'zgan",
+"country": "KG",
+"lat": 40.7699,
+"lng": 73.3007,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "balykchy",
+"ru": "Балыкчы",
+"en": "Balykchy",
+"uz": "Baliqchi",
+"country": "KG",
+"lat": 42.46,
+"lng": 76.187,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kyzyl_kiya",
+"ru": "Кызыл-Кия",
+"en": "Kyzyl-Kiya",
+"uz": "Qizilqiya",
+"country": "KG",
+"lat": 40.2567,
+"lng": 72.1278,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "cholpon_ata",
+"ru": "Чолпон-Ата",
+"en": "Cholpon-Ata",
+"uz": "Cho'lponota",
+"country": "KG",
+"lat": 42.6496,
+"lng": 77.082,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kant",
+"ru": "Кант",
+"en": "Kant",
+"uz": "Kant",
+"country": "KG",
+"lat": 42.8911,
+"lng": 74.8508,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "mailuu_suu",
+"ru": "Майлуу-Суу",
+"en": "Mailuu-Suu",
+"uz": "Mayli-Suv",
+"country": "KG",
+"lat": 41.265,
+"lng": 72.45,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "tash_kumyr",
+"ru": "Таш-Кумыр",
+"en": "Tash-Kumyr",
+"uz": "Toshko'mir",
+"country": "KG",
+"lat": 41.3478,
+"lng": 72.2172,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kara_suu",
+"ru": "Кара-Суу",
+"en": "Kara-Suu",
+"uz": "Qorasuv",
+"country": "KG",
+"lat": 40.7031,
+"lng": 72.8661,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "nookat",
+"ru": "Ноокат",
+"en": "Nookat",
+"uz": "Novqat",
+"country": "KG",
+"lat": 40.265,
+"lng": 72.62,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "bazar_korgon",
+"ru": "Базар-Коргон",
+"en": "Bazar-Korgon",
+"uz": "Bozorqo'rg'on",
+"country": "KG",
+"lat": 41.0372,
+"lng": 72.7461,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kara_kul",
+"ru": "Кара-Куль",
+"en": "Kara-Kul",
+"uz": "Qora-Ko'l",
+"country": "KG",
+"lat": 41.62,
+"lng": 72.68,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "isfana",
+"ru": "Исфана",
+"en": "Isfana",
+"uz": "Isfana",
+"country": "KG",
+"lat": 39.8389,
+"lng": 69.5275,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "sulukta",
+"ru": "Сулюкта",
+"en": "Sulukta",
+"uz": "Sulukta",
+"country": "KG",
+"lat": 39.9333,
+"lng": 69.5667,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kerben",
+"ru": "Кербен",
+"en": "Kerben",
+"uz": "Kerben",
+"country": "KG",
+"lat": 41.495,
+"lng": 71.748,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "at_bashy",
+"ru": "Ат-Башы",
+"en": "At-Bashy",
+"uz": "Otboshi",
+"country": "KG",
+"lat": 41.17,
+"lng": 75.8,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kochkor",
+"ru": "Кочкор",
+"en": "Kochkor",
+"uz": "Qochqor",
+"country": "KG",
+"lat": 42.215,
+"lng": 75.755,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "aravan",
+"ru": "Араван",
+"en": "Aravan",
+"uz": "Arovon",
+"country": "KG",
+"lat": 40.515,
+"lng": 72.505,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "kemin",
+"ru": "Кемин",
+"en": "Kemin",
+"uz": "Kemin",
+"country": "KG",
+"lat": 42.786,
+"lng": 75.692,
+"tz": "Asia/Bishkek"
+},
+{
+"id": "almaty",
+"ru": "Алматы",
+"en": "Almaty",
+"uz": "Olmaota",
+"country": "KZ",
+"lat": 43.2389,
+"lng": 76.8897,
+"tz": "Asia/Almaty"
+},
+{
+"id": "astana",
+"ru": "Астана",
+"en": "Astana",
+"uz": "Ostona",
+"country": "KZ",
+"lat": 51.1694,
+"lng": 71.4491,
+"tz": "Asia/Almaty"
+},
+{
+"id": "shymkent",
+"ru": "Шымкент",
+"en": "Shymkent",
+"uz": "Chimkent",
+"country": "KZ",
+"lat": 42.3417,
+"lng": 69.5901,
+"tz": "Asia/Almaty"
+},
+{
+"id": "taraz",
+"ru": "Тараз",
+"en": "Taraz",
+"uz": "Taroz",
+"country": "KZ",
+"lat": 42.9,
+"lng": 71.3667,
+"tz": "Asia/Almaty"
+},
+{
+"id": "tashkent",
+"ru": "Ташкент",
+"en": "Tashkent",
+"uz": "Toshkent",
+"country": "UZ",
+"lat": 41.2995,
+"lng": 69.2401,
+"tz": "Asia/Tashkent"
+},
+{
+"id": "samarkand",
+"ru": "Самарканд",
+"en": "Samarkand",
+"uz": "Samarqand",
+"country": "UZ",
+"lat": 39.6542,
+"lng": 66.9597,
+"tz": "Asia/Samarkand"
+},
+{
+"id": "bukhara",
+"ru": "Бухара",
+"en": "Bukhara",
+"uz": "Buxoro",
+"country": "UZ",
+"lat": 39.7747,
+"lng": 64.4286,
+"tz": "Asia/Samarkand"
+},
+{
+"id": "andijan",
+"ru": "Андижан",
+"en": "Andijan",
+"uz": "Andijon",
+"country": "UZ",
+"lat": 40.7821,
+"lng": 72.3442,
+"tz": "Asia/Tashkent"
+},
+{
+"id": "namangan",
+"ru": "Наманган",
+"en": "Namangan",
+"uz": "Namangan",
+"country": "UZ",
+"lat": 40.9983,
+"lng": 71.6726,
+"tz": "Asia/Tashkent"
+},
+{
+"id": "fergana",
+"ru": "Фергана",
+"en": "Fergana",
+"uz": "Farg'ona",
+"country": "UZ",
+"lat": 40.3864,
+"lng": 71.7864,
+"tz": "Asia/Tashkent"
+},
+{
+"id": "dushanbe",
+"ru": "Душанбе",
+"en": "Dushanbe",
+"uz": "Dushanbe",
+"country": "TJ",
+"lat": 38.5598,
+"lng": 68.787,
+"tz": "Asia/Dushanbe"
+},
+{
+"id": "khujand",
+"ru": "Худжанд",
+"en": "Khujand",
+"uz": "Xo'jand",
+"country": "TJ",
+"lat": 40.2826,
+"lng": 69.6222,
+"tz": "Asia/Dushanbe"
+},
+{
+"id": "ashgabat",
+"ru": "Ашхабад",
+"en": "Ashgabat",
+"uz": "Ashxobod",
+"country": "TM",
+"lat": 37.9601,
+"lng": 58.3261,
+"tz": "Asia/Ashgabat"
+},
+{
+"id": "baku",
+"ru": "Баку",
+"en": "Baku",
+"uz": "Boku",
+"country": "AZ",
+"lat": 40.4093,
+"lng": 49.8671,
+"tz": "Asia/Baku"
+},
+{
+"id": "moscow",
+"ru": "Москва",
+"en": "Moscow",
+"uz": "Moskva",
+"country": "RU",
+"lat": 55.7558,
+"lng": 37.6173,
+"tz": "Europe/Moscow"
+},
+{
+"id": "saint_petersburg",
+"ru": "Санкт-Петербург",
+"en": "Saint Petersburg",
+"uz": "Sankt-Peterburg",
+"country": "RU",
+"lat": 59.9311,
+"lng": 30.3609,
+"tz": "Europe/Moscow"
+},
+{
+"id": "kazan",
+"ru": "Казань",
+"en": "Kazan",
+"uz": "Qozon",
+"country": "RU",
+"lat": 55.7963,
+"lng": 49.1088,
+"tz": "Europe/Moscow"
+},
+{
+"id": "ufa",
+"ru": "Уфа",
+"en": "Ufa",
+"uz": "Ufa",
+"country": "RU",
+"lat": 54.7388,
+"lng": 55.9721,
+"tz": "Asia/Yekaterinburg"
+},
+{
+"id": "yekaterinburg",
+"ru": "Екатеринбург",
+"en": "Yekaterinburg",
+"uz": "Yekaterinburg",
+"country": "RU",
+"lat": 56.8389,
+"lng": 60.6057,
+"tz": "Asia/Yekaterinburg"
+},
+{
+"id": "novosibirsk",
+"ru": "Новосибирск",
+"en": "Novosibirsk",
+"uz": "Novosibirsk",
+"country": "RU",
+"lat": 55.0084,
+"lng": 82.9357,
+"tz": "Asia/Novosibirsk"
+},
+{
+"id": "makhachkala",
+"ru": "Махачкала",
+"en": "Makhachkala",
+"uz": "Maxachqala",
+"country": "RU",
+"lat": 42.9849,
+"lng": 47.5047,
+"tz": "Europe/Moscow"
+},
+{
+"id": "grozny",
+"ru": "Грозный",
+"en": "Grozny",
+"uz": "Grozniy",
+"country": "RU",
+"lat": 43.3178,
+"lng": 45.6949,
+"tz": "Europe/Moscow"
+},
+{
+"id": "istanbul",
+"ru": "Стамбул",
+"en": "Istanbul",
+"uz": "Istanbul",
+"country": "TR",
+"lat": 41.0082,
+"lng": 28.9784,
+"tz": "Europe/Istanbul"
+},
+{
+"id": "mecca",
+"ru": "Мекка",
+"en": "Mecca",
+"uz": "Makka",
+"country": "SA",
+"lat": 21.4225,
+"lng": 39.8262,
+"tz": "Asia/Riyadh"
+},
+{
+"id": "medina",
+"ru": "Медина",
+"en": "Medina",
+"uz": "Madina",
+"country": "SA",
+"lat": 24.4672,
+"lng": 39.6111,
+"tz": "Asia/Riyadh"
+}
+]
